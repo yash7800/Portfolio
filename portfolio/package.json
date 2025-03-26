@@ -2,6 +2,8 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+
+"homepage": "https://yash7800.github.io/Portfolio",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
